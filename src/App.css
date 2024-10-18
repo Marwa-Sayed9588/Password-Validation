@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(187, 209, 183);
+}
+h2{
+  align-items: center;
+}
+input{
+  font-size: 24px;
+}
+span{
+  font: 1.4em sans-serif;
+  margin-top: 20px;
+}
+div{
+ background-color:#bfe0e0;
+}
