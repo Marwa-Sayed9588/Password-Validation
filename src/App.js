@@ -6,7 +6,7 @@ const App = () => {
 	const [errorMessage, setErrorMessage] = useState('');
 
 	const isCommonPassword = (value) => {
-		const commonPasswords = ['123456', 'password', '123456789', '12345678', '12345', '1234567'];
+		const commonPasswords = ['123456', 'password', '123456789', '12345678', '12345', '1234567', '1234'];
 		return commonPasswords.includes(value);
 	};
 
